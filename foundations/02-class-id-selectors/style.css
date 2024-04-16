@@ -1,0 +1,22 @@
+body p {
+    background-color: hsl(0, 100%, 80%);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+body p.cooler {
+    font-size: 36px;
+}
+/*
+body p.odd.cooler {
+    font-size: 24px;
+}
+*/
+div#n2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+div#n4 {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: 700;
+}
